@@ -12,3 +12,4 @@ This project implements a traffic sign detection using Support Vector Machine (S
 ![image](https://github.com/toan-ly/Traffic-Sign-Detection/assets/104543062/d8adaea3-587f-4cae-b055-738b3ac3ce8f)
 ![image](https://github.com/toan-ly/Traffic-Sign-Detection/assets/104543062/d6a8810d-0b3b-469a-8fae-8f69fa39d328)
 ![image](https://github.com/toan-ly/Traffic-Sign-Detection/assets/104543062/a37601d0-f169-4106-b20a-74f63e1d232f)
+![image](https://github.com/toan-ly/Traffic-Sign-Detection/assets/104543062/3c7a5b7d-ae2c-4423-9efa-914a1ad297b9)
